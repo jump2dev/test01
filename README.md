@@ -4,6 +4,8 @@
 
 Origin 연결하기
 
-push하기
+push
 
 pull vs fetch
+
+협업하기
