@@ -1,9 +1,4 @@
 # 깃허브
 
-원격 저장소 만들기
-
-origin 연결하기
-
-push하기
-
-pull vs fetch
+> The information manager from hell.
+>> git means "global information tracker" 
